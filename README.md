@@ -3,7 +3,6 @@ We used it to identifying the mood  or subjective opinions within large amounts 
 
 # Bag of words
 It was used to preprocess the text to classify before fitting  the classification the classification algorithms on the observations containning the texts.
-
 <p>
  A vocabulary of known words
 </p>
@@ -12,6 +11,6 @@ It was used to preprocess the text to classify before fitting  the classificatio
 </p>
 
 # Main Tasks
-Clenaning texts to prepare them for the machine Learning models,
-Create a bag of words model,
-Apply Machine Learning models into this Bag of words model
+<p> Clenaning texts to prepare them for the machine Learning models </p>
+<p> Create a bag of words model </p>
+<p> Apply Machine Learning models into this Bag of words model </p>
