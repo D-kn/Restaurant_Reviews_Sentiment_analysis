@@ -7,6 +7,6 @@ It was used to preprocess the text to classify before fitting  the classificatio
 <p> A measure of the presence of known word </p>
 
 # Main Tasks
-<p> Clenaning texts to prepare them for the machine Learning models </p>
-<p> Create a bag of words model </p>
-<p> Apply Machine Learning models into this Bag of words model </p>
+<p> We Cleaned texts to prepare them for the machine Learning models, </p>
+<p> We Created a bag of words model, </p>
+<p> And finaly we apply Machine Learning models into this Bag of words model </p>
