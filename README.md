@@ -1,5 +1,5 @@
 # Sentiment analysis
-We used sentiment analysis to identifying the mood  or subjective opinions within large amounts of text, including average sentiment and opinion mining. The dataset comes from a restaurant reviews. 
+We used sentiment analysis to identifying the mood  or subjective opinions within large amounts of text, including average sentiment and opinion mining. The dataset comes from a restaurant review. 
 
 # Bag of words
 we preprocess the text to classify before fitting  the classification algorithms on the observations containning the texts.
