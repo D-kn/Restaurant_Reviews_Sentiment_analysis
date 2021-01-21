@@ -6,26 +6,6 @@ Created on Sat Jan 16 01:48:15 2021
 @author: rolvy-dicken
 """
 
-"""
-Sentiment analysis. identifying the mood  or subjective opinions within large 
-amounts of text, including average sentiment and opinion mining 
-
-"""
-"""
-******Bag of words***********
-Very popular NLP model It is a model used to preprocess the textx to classify 
-before fitting  the classification the classification algorithms on the 
-observations containning the texts.
-
-It involves two things: 
-    1. A vocabulary of known words
-    2. A measure of the presence of known words
-    
-    we worked on :
-    1. Clenaning texts to prepare them for the machine Learning models,
-    2. Create a bag of words model,
-    3. Apply Machine Learning models into this Bag of words model
-"""
 
 # importing librairies
 import numpy as np
